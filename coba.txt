@@ -1,1 +1,10 @@
-p
+git config --global user.email "iyannnardian21@gmail.com"
+git init
+git add .
+git remote add origin https://github.com/iyannnardian/belajar.git
+git commit -m "Opsinanal"
+git push -u origin master
+git pull
+
+
+
